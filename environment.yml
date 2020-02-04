@@ -8,7 +8,6 @@ dependencies:
   - certifi
   - cycler
   - freetype
-  - icc_rt
   - icu
   - intel-openmp
   - jinja2
@@ -51,7 +50,6 @@ dependencies:
   - tk
   - tornado
   - wheel
-  - wincertstore
   - xz
   - yaml
   - zlib
