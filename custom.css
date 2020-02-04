@@ -1,0 +1,19 @@
+/*Some css fixes to use night theme with IPython slides*/
+
+code {
+  max-height: 600px !important;
+}
+
+
+
+
+body:after {
+content: url(./images/S4D.png);
+position: fixed;
+bottom: 3.5em;
+left: 3.5em;
+}
+
+.reveal p {
+color: black;
+}
